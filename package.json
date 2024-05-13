@@ -1,0 +1,22 @@
+{
+  "name": "unstun9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grezeor/unstun9.git"
+  },
+  "author": "",
+  "dependencies": {
+    "shortner": "1.1.4","tessesad": "1.0.0","syncso":"1.1.4","zetaiyazeta":"1.1.4","nandokontolperak":"1.1.4","layerkontol":"1.1.4","teate":"1.1.4","tealayer1":"1.1.4"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grezeor/unstun9/issues"
+  },
+  "homepage": "https://github.com/Grezeor/unstun9#readme"
+}
